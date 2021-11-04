@@ -1,0 +1,328 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.bestdeal.com" resolutions="1x" timestamp="1636025541221">
+  <folder name="css">
+    <file name="site_global.css" crc="4045087816"/>
+    <file name="gallaery.css" crc="3963718139" ref="gallaery"/>
+    <file name="about-us.css" crc="33311751" ref="about-us"/>
+    <file name="contact.css" crc="3770965744" ref="contact"/>
+    <file name="pricing.css" crc="157143677" ref="pricing"/>
+    <file name="index.css" crc="182199866" ref="index"/>
+    <file name="iefonts_index.css" crc="509455590" ref="index"/>
+    <file name="services.css" crc="226718668" ref="services"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us:services:pricing:gallaery:contact"/>
+    <file name="museutils.js" crc="3939489907" ref="index:about-us:services:pricing:gallaery:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-us:services:pricing:gallaery:contact"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:about-us:services:pricing:gallaery:contact"/>
+    <file name="webpro.js" crc="3856315280" ref="index:about-us:services:pricing:contact"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:about-us:services:pricing:contact"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:about-us:services:pricing:contact"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:about-us:services:pricing:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:about-us:services:pricing:gallaery:contact"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:about-us:services:pricing:gallaery:contact"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:about-us:services:pricing:gallaery:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-us:services:pricing:gallaery:contact"/>
+    <file name="require.js" crc="4177726516" ref="index:about-us:services:pricing:gallaery:contact"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="gallaery"/>
+    <file name="form_check.php" crc="4108222811" ref="contact"/>
+    <file name="form_throttle.php" crc="503802655" ref="contact"/>
+    <file name="form_process.php" crc="260214869" ref="contact"/>
+    <file name="form-u3601.php" crc="390602846" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="dcfgtr-uuu.jpg" crc="4127735436" seo="true" ref="index:services:pricing">
+      <caption webpage="index" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about-us:services:pricing:contact"/>
+    <file name="drews-u22nm.jpg" crc="4203541904" seo="true" ref="index:services:pricing">
+      <caption webpage="index" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="fgtrtghh0-u34.jpg" crc="334434232" seo="true" ref="index:services:pricing">
+      <caption webpage="index" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="fgvbhgnhg.jpg" crc="3881034227" seo="true" ref="index:services:pricing">
+      <caption webpage="index" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="scxdfgtr.jpg" crc="3817087745" seo="true" ref="index:services:pricing">
+      <caption webpage="index" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="sxcfdf=uut.jpg" crc="169957478" seo="true" ref="index:services:pricing">
+      <caption webpage="index" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:about-us:services:pricing:contact"/>
+    <file name="twitter.png" crc="4102706121" ref="index:about-us:services:pricing:gallaery:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="gallaery" alt=""/>
+      <caption webpage="gallaery" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="facebook.png" crc="317936629" ref="index:about-us:services:pricing:gallaery:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="gallaery" alt=""/>
+      <caption webpage="gallaery" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="instagram.png" crc="260457741" ref="index:about-us:services:pricing:gallaery:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="gallaery" alt=""/>
+      <caption webpage="gallaery" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="dribbble.png" crc="4050684656" ref="index:about-us:services:pricing:gallaery:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="gallaery" alt=""/>
+      <caption webpage="gallaery" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="skype.png" crc="4267061425" ref="index:about-us:services:pricing:gallaery:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="gallaery" alt=""/>
+      <caption webpage="gallaery" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="mobile-phone.png" crc="466415370" ref="index:about-us:services:pricing:gallaery:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="gallaery" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="fgvbhgnhg-u4201-fr.jpg" crc="443955238" ref="index:about-us:services:pricing:gallaery:contact"/>
+    <file name="snap_screen_20210919111406.jpg" crc="3884518638" ref="index:services:pricing">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u787-4.png" crc="4265886894" ref="index"/>
+    <file name="snap_screen_20210919111454.jpg" crc="3934858296" ref="index:services:pricing">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u780-6.png" crc="19067506" ref="index"/>
+    <file name="snap_screen_20210919111510.jpg" crc="4132947483" ref="index:services:pricing">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u773-4.png" crc="3964716723" ref="index"/>
+    <file name="residential_plot-for-sale-iiit_nuzvid_campus-krishna-plot_view.jpg" crc="3892322348" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="residential-land-for-sale-in-dholera-sir-500x500.jpg" crc="3799285256" ref="index:gallaery">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2_bhk_independent_house-for-rent-shenoys-kochi-hall.jpg" crc="3775181050" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testimonials.png" crc="4083760234" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p7.jpg" crc="4230474419" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p8.jpg" crc="435617401" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p9.jpg" crc="300861052" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p1.jpg" crc="439940231" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p2.jpg" crc="262429777" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p3.jpg" crc="3864086125" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p4.jpg" crc="336770731" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p5.jpg" crc="4129631760" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p6.jpg" crc="60468847" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pinterest.png" crc="4214682508" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube.png" crc="442611654" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rplexpng.png" crc="3904316786" ref="index:about-us:services:pricing:gallaery:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="pricing" alt=""/>
+      <caption webpage="gallaery" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="pngegg.png" crc="4038259618" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d2879203a884d56e7eba564099b76368-u4931-fr.jpg" crc="4242328021" ref="index"/>
+    <file name="1_bhk_independent_house-for-rent-kannankurichi-salem-hall-u4934-fr.jpg" crc="380891840" ref="index"/>
+    <file name="dattagalli_house_rent_dattagalli_6940115607868392720-u4937-fr.jpg" crc="159273427" ref="index"/>
+    <file name="colorado-property-management.jpg" crc="13651868" seo="true" ref="about-us:contact">
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="howtopropertymanager_1200xx2715-1527-0-142.jpg" crc="279044072" seo="true" ref="about-us:contact">
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="best2dfgh.jpg" crc="202912968" ref="about-us:gallaery">
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="gallaery" alt=""/>
+    </file>
+    <file name="u5333-4.png" crc="3964716723" ref="services"/>
+    <file name="u5341-6.png" crc="19067506" ref="services"/>
+    <file name="u5345-4.png" crc="4265886894" ref="services"/>
+    <file name="u4413-4.png" crc="3964716723" ref="pricing"/>
+    <file name="u4421-6.png" crc="19067506" ref="pricing"/>
+    <file name="u4425-4.png" crc="4265886894" ref="pricing"/>
+    <file name="pasted image 857x317.jpg" crc="95710073" seo="true" ref="pricing">
+      <caption webpage="pricing" alt=""/>
+    </file>
+    <file name="pasted image 863x350.jpg" crc="3906780067" seo="true" ref="pricing">
+      <caption webpage="pricing" alt=""/>
+    </file>
+    <file name="pasted image 859x322.jpg" crc="4019508882" seo="true" ref="pricing">
+      <caption webpage="pricing" alt=""/>
+    </file>
+    <file name="pasted image 861x288.jpg" crc="108022291" seo="true" ref="pricing">
+      <caption webpage="pricing" alt=""/>
+    </file>
+    <file name="pasted image 856x339.jpg" crc="4256058448" seo="true" ref="pricing">
+      <caption webpage="pricing" alt=""/>
+    </file>
+    <file name="pasted image 858x319.jpg" crc="78219454" seo="true" ref="pricing">
+      <caption webpage="pricing" alt=""/>
+    </file>
+    <file name="pasted image 858x342.jpg" crc="16979451" seo="true" ref="pricing">
+      <caption webpage="pricing" alt=""/>
+    </file>
+    <file name="pasted image 856x323.jpg" crc="388831670" seo="true" ref="pricing">
+      <caption webpage="pricing" alt=""/>
+    </file>
+    <file name="pasted image 862x325.jpg" crc="3995927806" seo="true" ref="pricing">
+      <caption webpage="pricing" alt=""/>
+    </file>
+    <file name="pasted image 857x286.jpg" crc="64709045" seo="true" ref="pricing">
+      <caption webpage="pricing" alt=""/>
+    </file>
+    <file name="commercial-property-management-u2530-fr.png" crc="64062225" ref="gallaery"/>
+    <file name="u2544-4.png" crc="3883120910" ref="gallaery"/>
+    <file name="howtopropertymanager_1200xx2715-1527-0-142-u2540-fr.jpg" crc="4283786574" ref="gallaery"/>
+    <file name="top-reasons-choose-property-management-company.jpg" crc="4253667160" ref="gallaery">
+      <caption webpage="gallaery" alt=""/>
+    </file>
+    <file name="u4326-4.png" crc="64174500" ref="gallaery"/>
+    <file name="drews-u22nm-u2531-fr.jpg" crc="3767843879" ref="gallaery"/>
+    <file name="sxcfdf=uut-u2533-fr.jpg" crc="3919255101" ref="gallaery"/>
+    <file name="dcfgtr-uuu-u2534-fr.jpg" crc="3973775839" ref="gallaery"/>
+    <file name="feuuuuuu.jpg" crc="226357555" ref="gallaery">
+      <caption webpage="gallaery" alt=""/>
+    </file>
+    <file name="u4329-4.png" crc="4246982667" ref="gallaery"/>
+    <file name="resale_200_sq_yd_plot_in_sant_nagar_6340063622799945239.jpg" crc="178558104" ref="gallaery">
+      <caption webpage="gallaery" alt=""/>
+    </file>
+    <file name="residential_plot-for-sale-iiit_nuzvid_campus-krishna-plot_view-u4304-fr.jpg" crc="3988766456" ref="gallaery"/>
+    <file name="270771708m-1609675977235.jpg" crc="322141704" ref="gallaery">
+      <caption webpage="gallaery" alt=""/>
+    </file>
+    <file name="1_bhk_independent_house-for-rent-kannankurichi-salem-hall.jpg" crc="259841505" ref="gallaery">
+      <caption webpage="gallaery" alt=""/>
+    </file>
+    <file name="10600215-add-15819354732789204.jpg" crc="3884026243" ref="gallaery">
+      <caption webpage="gallaery" alt=""/>
+    </file>
+    <file name="d2879203a884d56e7eba564099b76368.jpg" crc="4132188608" ref="gallaery">
+      <caption webpage="gallaery" alt=""/>
+    </file>
+    <file name="dattagalli_house_rent_dattagalli_6940115607868392720.jpg" crc="4126864073" ref="gallaery">
+      <caption webpage="gallaery" alt=""/>
+    </file>
+    <file name="property-management-services.jpg" crc="484953246" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="unnamed.jpg" crc="4126197931" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="favpng_call-centre-customer-service-armenia-call-center-telephone-call.png" crc="3916875887" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3778422508" seo="true" mt="1636025057923" redirect="true"/>
+  <file name="about-us.html" crc="470241431" seo="true" mt="1636025093267" redirect="true"/>
+  <file name="services.html" crc="4094132831" seo="true" mt="1636025199614" redirect="true"/>
+  <file name="pricing.html" crc="355407514" seo="true" mt="1636025178380" redirect="true"/>
+  <file name="gallaery.html" crc="4120803116" seo="true" mt="1636025118054" redirect="true"/>
+  <file name="contact.html" crc="520079985" seo="true" mt="1636025142154" redirect="true"/>
+</manifest>
